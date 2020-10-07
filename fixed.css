@@ -72,6 +72,35 @@ span.member_area_icon img {
     color: #7a7a7a;
     /* margin-top: 3px; */
 }
+span.who_is_TOTAL_USERS_ONLINE strong {
+    font-size: 16px;
+    font-weight: bold;
+}
+span.who_is_TOTAL_USERS_ONLINE {
+    font-size: 0;
+    margin-right: inherit;
+}
+span.site_topic_TOTAL_POSTS strong {
+    font-size: 16px;
+}
+span.site_topic_TOTAL_POSTS {
+    font-size: 0;
+    margin-right: inherit;
+}
+span.sit_TOTAL_USERS {
+    font-size: 0px;
+    margin-right: inherit;
+}
+span.sit_TOTAL_USERS strong {
+    font-size: 16px;
+}
+span.site_CHATTERS_LIST {
+    font-size: 0px;
+    margin-right: inherit;
+}
+span.site_CHATTERS_LIST strong {
+    font-size: 16px;
+}
 .cont{background:#f3f3f3 url(https://i98.servimg.com/u/f98/20/22/21/34/gradie10.png) bottom repeat-x;width:990px;box-shadow:0px 0px 7px #000;-moz-box-shadow:0px 0px 7px #000;-ms-box-shadow:0px 0px 7px #000;-o-box-shadow:0px 0px 7px #000;-webkit-box-shadow:0px 0px 7px #000;margin:auto;border-radius:0px 0px 5px 5px;
 border:0px solid #f3f3f3;overflow:hidden;}
 /*gust*/
