@@ -190,6 +190,49 @@ span.post_by_member strong {
     font-size: 14px;
 }
 
+span.navbiNAV_CAT_DESC {
+    font-size: 0;
+}
+span.navbiNAV_CAT_DESC h1:before {
+    border: 20px solid transparent;
+    border-right-color: #bcbcbc;
+    width: 0px;
+    height: 0px;
+    content: ' ';
+    position: absolute;
+    top: -1px;
+    right: 100%;
+    z-index: 98;
+}
+span.navbiNAV_CAT_DESC h1:after {
+    border: 19px solid transparent;
+    border-right-color: #e7e7e7;
+    width: 0px;
+    height: 0px;
+    content: ' ';
+    position: absolute;
+    top: 0px;
+    right: 100%;
+    z-index: 98;
+}
+span.navbiNAV_CAT_DESC h1 {
+    height: 38px;
+    background: #e7e7e7;
+    padding-right: 5px;
+    padding-left: 5px;
+    line-height: 38px;
+    text-align: center;
+    float: right;
+    color: #8c8c8c;
+    font-size: 12px;
+    font-family: 'droid Arabic Kufi';
+    position: relative;
+    padding-right: 40px;
+    margin-top: 2px;
+    border: 1px solid #d3d3d3;
+}
+
+
 .cont{background:#f3f3f3 url(https://i98.servimg.com/u/f98/20/22/21/34/gradie10.png) bottom repeat-x;width:990px;box-shadow:0px 0px 7px #000;-moz-box-shadow:0px 0px 7px #000;-ms-box-shadow:0px 0px 7px #000;-o-box-shadow:0px 0px 7px #000;-webkit-box-shadow:0px 0px 7px #000;margin:auto;border-radius:0px 0px 5px 5px;
 border:0px solid #f3f3f3;overflow:hidden;}
 /*gust*/
