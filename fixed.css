@@ -347,7 +347,7 @@ color:#3aaeaa;}
 .sit_stat_members_count{margin-right:12px;}
 
 .welcome_new_member{height:41px;background:#f8f8f8;border-top:1px solid #eeeded;line-height:41px;text-align:center;}
-.welcome_new_member_info{float:right;width:200px;line-height:41px;font-family:'droid Arabic Kufi';font-size:14px;font-weight:bold;margin-right:7px;
+.welcome_new_member_info{width:300px;line-height:41px;font-family:'droid Arabic Kufi';font-size:14px;font-weight:bold;margin-right:7px;
 color:#d4a70c;}
 .welcome_new_member2{height:41px;min-width:230px;margin:auto;max-width:300px;}
 .welcome_new_member_icon{float:right;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -481px -29px;width:25px;height:25px;margin-top:9px;margin-right:7px;}
