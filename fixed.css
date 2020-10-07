@@ -231,7 +231,7 @@ span.navbiNAV_CAT_DESC h1 {
     border: 1px solid #d3d3d3;
 }
 span.navbiNAV_CAT_DESC h1:hover{background:#333;color:#f1f1f1;cursor:pointer;}
-span.navbiNAV_CAT_DESC h1:after{border:19px solid transparent;border-right-color:#333;width:0px;height:0px;content: ' ';
+span.navbiNAV_CAT_DESC h1:hover:after{border:19px solid transparent;border-right-color:#333;width:0px;height:0px;content: ' ';
 position:absolute;top:0px;right:100%;z-index:98}
 
 .cont{background:#f3f3f3 url(https://i98.servimg.com/u/f98/20/22/21/34/gradie10.png) bottom repeat-x;width:990px;box-shadow:0px 0px 7px #000;-moz-box-shadow:0px 0px 7px #000;-ms-box-shadow:0px 0px 7px #000;-o-box-shadow:0px 0px 7px #000;-webkit-box-shadow:0px 0px 7px #000;margin:auto;border-radius:0px 0px 5px 5px;
