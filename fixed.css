@@ -236,7 +236,7 @@ position:relative;top:-2px;margin-right:40px;}
 /**/
 /*site_stats_bar*/
 .site_stats_bar{height:41px;background:#f8f8f8;border-bottom:1px solid #eeeded;line-height:41px;}
-.who_is_online{float:right;width:284px;line-height:41px;font-family:'droid Arabic Kufi';font-size:14px;font-weight:bold;margin-right:7px;
+.who_is_online{float:right;width:230px;line-height:41px;font-family:'droid Arabic Kufi';font-size:14px;font-weight:bold;margin-right:7px;
 border-left:1px solid #e6e6e6;color:#c45555;}
 
 .site_topic_stat{float:right;width:200px;line-height:41px;font-family:'droid Arabic Kufi';font-size:14px;font-weight:bold;margin-right:7px;
