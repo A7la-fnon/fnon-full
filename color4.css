@@ -1,4 +1,4 @@
-﻿/*
+/*
 Style Name: fnon full option style
 Team: Fnon for Web Design
 Team URI: http://www.a7la7ekaya.com
@@ -345,17 +345,17 @@ text-align:right;padding-top:5px;padding-right:10px;padding-left:10px;}
 .last_post{float:right;margin-right:8px;width:239px;line-height:32px;text-align:right;font-family:'droid Arabic Kufi',tahoma;
 font-size:12px;font-weight:normal;}
 .last_post a{color:#418eb5;text-decoration:none;padding-right:5px;}
-.last_post_icon{float:right;width:16px;height:18px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -427px -4px;margin-top:6px;}
+.last_post_icon{float:right;width:16px;height:18px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -427px -4px;margin-top:6px;}
 .last_post_by{float:right;margin-right:7px;min-width:178px;line-height:32px;text-align:right;font-family:'droid Arabic Kufi',tahoma;
 font-size:12px;font-weight:normal;}
 .last_post_by a{color:#418eb5;text-decoration:none;}
 .post_by_member{padding-right:5px;}
-.last_post_by_icon{float:right;width:17px;height:19px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -402px -28px;margin-top:6px;}
+.last_post_by_icon{float:right;width:17px;height:19px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -402px -28px;margin-top:6px;}
 .last_post_time{float:right;margin-right:7px;min-width:192px;line-height:32px;text-align:right;font-family:'droid Arabic Kufi',tahoma;
 font-size:12px;font-weight:normal;color:#494949;}
 .last_post_time2{padding-right:5px;}
-.last_post_time_icon{float:right;width:19px;height:19px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -375px -26px;margin-top:6px;}
-.go_to_last_post{float:left;width:22px;height:22px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -399px -3px;margin-top:5px;margin-left:7px;}
+.last_post_time_icon{float:right;width:19px;height:19px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -375px -26px;margin-top:6px;}
+.go_to_last_post{float:left;width:22px;height:22px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -399px -3px;margin-top:5px;margin-left:7px;}
 /*count info*/
 .count_topics{line-height:20px;border-bottom:2px dotted #bfbfbf;color:#317db2;font-family:'droid Arabic Kufi',tahoma;font-size:12px;font-weight:bold;
 float:right;width:100%;text-align:center;padding-bottom:5px;}
@@ -363,9 +363,9 @@ float:right;width:100%;text-align:center;padding-bottom:5px;}
 margin-top:5px;float:right;width:100%;text-align:center;padding-bottom:5px;}
 .count_her_now{line-height:20px;color:#cdcdcd;font-family:'droid Arabic Kufi',tahoma;font-size:12px;font-weight:bold;
 margin-top:5px;float:right;width:100%;text-align:center;padding-bottom:0px;}
-.count_topics_icon{float:right;width:17px;height:17px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -347px -3px;margin-top:2px;}
-.count_posts_icon{float:right;width:19px;height:19px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -323px -26px;margin-top:2px;}
-.count_her_now_icon{float:right;width:13px;height:15px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite10.png) -326px -5px;margin-top:2px;}
+.count_topics_icon{float:right;width:17px;height:17px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -347px -3px;margin-top:2px;}
+.count_posts_icon{float:right;width:19px;height:19px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -323px -26px;margin-top:2px;}
+.count_her_now_icon{float:right;width:13px;height:15px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -326px -5px;margin-top:2px;}
 .quote_head_title{font-family:'droid Arabic Kufi';font-size:16px;font-weight:bold;color:#4787b4;float:right;
 margin-right:7px;line-height:52px}
 .but_tit{float:right;padding:10px;line-height:20px;text-align:center;font-weight:bold;
@@ -412,3 +412,4 @@ padding-bottom:5px;margin-right:3px;}
 .welcome_new_member_info a{text-decoration:none;color:#418eb5}
 .bouttn a{color:#FFF;text-decoration:none;}
 .welcome_members a{text-decoration:none;color:#FFF;}
+
