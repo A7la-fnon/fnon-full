@@ -120,7 +120,7 @@ background: linear-gradient(to bottom, #ececec 0%,#dedede 100%);filter: progid:D
 background: linear-gradient(to bottom, #ececec 0%,#dfdfdf 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ececec', endColorstr='#dfdfdf',GradientType=0 );font-family:"fnon-full-option-style", fnon-full-option-style, tahoma;font-size:18px;color:#817f7f;
 border-radius:3px;border-top:1px solid #FFF;border-right:1px solid #FFF;line-height:35px;padding-right:5px;}
 .search_input input[type="text"]{border:0px solid #333;border-right:1px solid #817f7f;position:relative;right:-0px;top:-3px;
-background:none;padding-right:3px;color:#817f7f;font-family:'droid Arabic Kufi';font-size:12px;}
+background:none;padding-right:3px;color:#817f7f;font-family:'droid Arabic Kufi';font-size:12px;width: 200px;}
 .searchsubmit{height:37px;;font-family:"fnon-full-option-style", fnon-full-option-style, tahoma;font-size:28px;color:#817f7f;
 background: #ececec;background: -moz-linear-gradient(top, #ececec 0%, #dfdfdf 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ececec), color-stop(100%,#dfdfdf));background: -webkit-linear-gradient(top, #ececec 0%,#dfdfdf 100%);background: -o-linear-gradient(top, #ececec 0%,#dfdfdf 100%);background: -ms-linear-gradient(top, #ececec 0%,#dfdfdf 100%);
 background: linear-gradient(to bottom, #ececec 0%,#dfdfdf 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ececec', endColorstr='#dfdfdf',GradientType=0 );border-radius:3px;border:0px solid #000;width:50px;margin-right:5px;position:relative;top:-1px;transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;}
