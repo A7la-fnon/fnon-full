@@ -276,6 +276,37 @@ legend
 	color: #ff4949;
 	text-decoration: none;
 }
+/* ***** styling a7la7ekaya profail ***** */
+
+td.a7la-profail {
+    background-color: #bf2f2f;
+    border: 1px none;
+}
+td.css_helmtd {
+    border-top: 0px solid #bf2f2f;
+    border-bottom: 0px solid #bf2f2f;
+    border-right: 3px solid #bf2f2f;
+    border-left: 3px solid #bf2f2f;
+}
+
+td.a7la-avataruser {
+    border-style: solid;
+    border-width: 1px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    background-color: #bf2f2f;
+}
+
+.color-fav:after {
+    content: "Cadetblue";
+    color: #222;
+    padding-left: 2px;
+    font-size: 14px;
+}
 /* ***** styling for 'big' usernames on postbit etc. ***** */
 .bigusername { font-size: 14pt; }
 
