@@ -303,7 +303,7 @@ td.a7la-avataruser {
 }
 
 .color-fav:after {
-    content: "Cadetblue";
+	    content: "Green";
     color: #222;
     padding-left: 2px;
     font-size: 14px;
