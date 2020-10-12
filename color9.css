@@ -369,7 +369,7 @@ background: -o-linear-gradient(top, #cd3989 0%,#da4d9a 100%);
 background: -ms-linear-gradient(top, #cd3989 0%,#da4d9a 100%);
 background: linear-gradient(to bottom, #cd3989 0%,#da4d9a 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cd3989', endColorstr='#da4d9a',GradientType=0 );cursor:default;}
 .sub_list a{font-family:'droid Arabic Kufi',tahoma;font-size:12px;font-weight:normal;color:#c92c67;text-decoration:none;
-text-align:right;padding-top:5px;padding-right:10px;padding-left:10px;}
+text-align:right;padding-top:5px;padding-right:25px;padding-left:10px;}
 .sub_lists_icon{color:#c92c67;font-family:"fnon-full-option-style", fnon-full-option-style, tahoma;font-size:12px;}
 .sub_botton:hover > .sub_list{display:block;}
 /*last_post*/
