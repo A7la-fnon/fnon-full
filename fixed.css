@@ -423,7 +423,7 @@ background: -ms-linear-gradient(top, #464646 0%,#1d1d1d 100%);
 background: linear-gradient(to bottom, #464646 0%,#1d1d1d 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0eacee', endColorstr='#0375be',GradientType=0 );
 border-radius:7px 0px 7px 0px;border:2px 2px 0px 0px #ffffff;transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;cursor:default;width:120px;
 }
-.but_tit{    /* width: 120px; */}
+.but_tit{width: 120px;}
 /**/
 .to_top{float:right;margin-right:48%;width:56px;height:56px;background:url(https://i98.servimg.com/u/f98/20/22/21/34/sprite11.png) -476px -63px;position:relative;bottom:60px;
 transition:all 0.1s ease-in-out;-moz-transition:all 0.1s ease-in-out;-ms-transition:all 0.1s ease-in-out;-o-transition:all 0.1s ease-in-out;-webkit-transition:all 0.1s ease-in-out;cursor:pointer;}
