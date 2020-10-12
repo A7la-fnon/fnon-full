@@ -370,7 +370,7 @@ background: -o-linear-gradient(top, #23ca08 0%,#53cb46 100%);
 background: -ms-linear-gradient(top, #23ca08 0%,#53cb46 100%);
 background: linear-gradient(to bottom, #23ca08 0%,#53cb46 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23ca08', endColorstr='#53cb46',GradientType=0 );cursor:default;}
 .sub_list a{font-family:'droid Arabic Kufi',tahoma;font-size:12px;font-weight:normal;color:#71c369;text-decoration:none;
-text-align:right;padding-top:5px;padding-right:10px;padding-left:10px;}
+text-align:right;padding-top:5px;padding-right:25px;padding-left:10px;}
 .sub_lists_icon{color:#71c369;font-family:"fnon-full-option-style", fnon-full-option-style, tahoma;font-size:12px;}
 .sub_botton:hover > .sub_list{display:block;}
 /*last_post*/
